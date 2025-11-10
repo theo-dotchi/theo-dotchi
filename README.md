@@ -121,7 +121,3 @@ GitHub, GitLab, Docker, AWS, Datadog, Amplitude, Meilisearch, Freee (ERP), Sieme
 🎹 Piano (20 years, multiple competitions)
 🥋 Judo (black belt)
 🏊‍♂️ Triathlon (national-level competitor)
-
----
-
-Would you like me to add a **short intro paragraph at the top** (like a personal summary for your GitHub profile README)? It can make it feel more like a personal page than a formal résumé.
