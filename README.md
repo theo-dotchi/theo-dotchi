@@ -120,4 +120,4 @@ GitHub, GitLab, Docker, AWS, Datadog, Amplitude, Meilisearch, Freee (ERP), Sieme
 
 🎹 Piano (20 years, multiple competitions)
 🥋 Judo (black belt)
-🏊‍♂️ Triathlon (national-level competitor)
+🏊‍♂️ Triathlon 
